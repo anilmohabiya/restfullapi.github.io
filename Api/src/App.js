@@ -21,6 +21,7 @@ connect();  //simply call the dbconnection
  // res.send('eska use ham sirf json me dekhte hai  jab data save karte hi mongodb me to delete kardete hi');
 // })
 //create using async await function
+//now let get started
 
 app.listen(port,()=>{
     console.log(`connection is sucessfull at ${port}`);
